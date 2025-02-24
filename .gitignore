@@ -1,4 +1,6 @@
 *.java.hsp
+*.zip
+*.jar
 *.sonarj
 *.sw*
 .DS_Store
